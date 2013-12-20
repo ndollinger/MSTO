@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MSTO</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msto">MAIN SCREEN TURN ON!</string>
+    <string name="enable_button_label">Keep Screen Awake</string>
+    <string name="disable_button_label">Disable Screen Awake</string>
+
+</resources>
